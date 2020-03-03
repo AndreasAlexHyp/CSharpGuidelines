@@ -1,9 +1,7 @@
 # main links
 main:
-  - title: "The Continuous Improver"
-    url: https://www.continuousimprover.com
-  - title: "Aviva Solutions"
-    url: https://www.avivasolutions.nl
+  - title: "Hyperio Software"
+    url: https://www.hyperiosoftware.com
 
 sidebar:
   - title: Introduction
@@ -15,39 +13,26 @@ sidebar:
         url: /#12-why-would-you-use-this-document
       - title: Basic Principles
         url: /#13-basic-principles
-      - title: How do you get started?
-        url: /#14-how-do-you-get-started
-      - title: Why did we create it?
-        url: /#15-why-did-we-create-it
-      - title: Can I create my own version?
-        url: /#18-can-i-create-my-own-version
 
   - title: Guidelines
     children:
-      - title: Class Design (AV1000)
+      - title: Class Design (HY1000)
         url: /class-design-guidelines/
-      - title: Member Design (AV1100)
+      - title: Member Design (HY1100)
         url: /member-design-guidelines/
-      - title: Miscellaneous (AV1200)
+      - title: Miscellaneous (HY1200)
         url: /misc-design-guidelines/
-      - title: Maintainability Guidelines (AV1500)
+      - title: Maintainability Guidelines (HY1500)
         url: /maintainability-guidelines/
-      - title: Naming Conventions (AV1700)
+      - title: Naming Conventions (HY1700)
         url: /naming-guidelines/
-      - title: Performance Guidelines (AV1800)
+      - title: Performance Guidelines (HY1800)
         url: /performance-guidelines/
-      - title: .NET Framework Usage (AV2200)
+      - title: .NET Framework Usage (HY2200)
         url: /framework-guidelines/
-      - title: Comments and XML Documentation (AV2300)
+      - title: Comments and XML Documentation (HY2300)
         url: /documentation-guidelines/
-      - title: Layout Guidelines (AV2400)
+      - title: Layout Guidelines (HY2400)
         url: /layout-guidelines/
       - title: Resources & Articles
         url: /resources/
-
-  - title: Community Support
-    children:
-      - title: C# Guidelines Analyzer
-        url: https://github.com/bkoelman/CSharpGuidelinesAnalyzer
-      - title: Russian Translation (by Sergey Russkikh)
-        url: https://github.com/SergeyRusskih/CSharpGuidelines.Russian

@@ -2,7 +2,7 @@
     $BaseDirectory = Resolve-Path ..     
     $ArtifactsDirectory = "$BaseDirectory\Artifacts\"     
 	$LibDir = "$BaseDirectory\Lib"
-	$defaultRulePrefix = "AV"
+	$defaultRulePrefix = "HY"
 }
 
 task default -depends Clean, ExtractVersionsFromGit, Compile, CompileCheatsheet, BuildHtml
