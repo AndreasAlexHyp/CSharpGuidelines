@@ -1,6 +1,6 @@
 ## 1.1. What is this?
 
-This document attempts to provide guidelines (or coding standards if you like) for all versions of C# up to and including 7.3 that are both valuable and pragmatic. Given document was forked from [CSharpGuidelines](https://github.com/dennisdoomen/CSharpGuidelines). 
+This document attempts to provide guidelines (or coding standards if you like) for all versions of C# up to and including 7.3 that are both valuable and pragmatic. 
 
 ## 1.2. Why would you use this document?
 
@@ -26,3 +26,7 @@ In general, if I have a discussion with a colleague about a smell that this docu
 - In general, generated code should not need to comply with coding guidelines. However, if it is possible to modify the templates used for generation, try to make them generate code that complies as much as possible.
 
 Regardless of the elegance of someone's solution, if it's too complex for the ordinary developer, exposes unusual behavior, or tries to solve many possible future issues, it is very likely the wrong solution and needs redesign. The worst response a developer can give you to these principles is: "But it works?".
+
+## 1.4. Source
+
+The project is a fork of [CSharpGuidelines](https://github.com/dennisdoomen/CSharpGuidelines). 

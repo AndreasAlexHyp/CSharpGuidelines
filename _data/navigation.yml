@@ -13,6 +13,8 @@ sidebar:
         url: /#12-why-would-you-use-this-document
       - title: Basic Principles
         url: /#13-basic-principles
+      - title: Source
+        url: /#14-source
 
   - title: Guidelines
     children:
