@@ -34,4 +34,4 @@ COPY . /usr/app
 
 WORKDIR /usr/app
 
-CMD bundle exec jekyll serve --incremental --host http://csharp-guidelines.hyperio.server/ --port 7070
+CMD bundle exec jekyll serve --incremental --host 0.0.0.0 --port 7070
