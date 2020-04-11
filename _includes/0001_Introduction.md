@@ -27,6 +27,18 @@ In general, if I have a discussion with a colleague about a smell that this docu
 
 Regardless of the elegance of someone's solution, if it's too complex for the ordinary developer, exposes unusual behavior, or tries to solve many possible future issues, it is very likely the wrong solution and needs redesign. The worst response a developer can give you to these principles is: "But it works?".
 
-## 1.4. Source
+## 1.4. Is this a coding standard?
 
-The project is a fork of [CSharpGuidelines](https://github.com/dennisdoomen/CSharpGuidelines). 
+The document does not state that projects must comply with these guidelines, neither does it say which guidelines are more important than others. However, we encourage projects to decide themselves which guidelines are important, what deviations a project will use, who is the consultant in case doubts arise, and what kind of layout must be used for source code. Obviously, you should make these decisions before starting the real coding work.
+
+To help you in this decision, I've assigned a level of importance to each guideline:
+
+![](/assets/images/1.png) Guidelines that you should never skip and should be applicable to all situations
+
+![](/assets/images/2.png) Strongly recommended guidelines
+
+![](/assets/images/3.png) May not be applicable in all situations
+
+## 1.5. Source
+
+The project was forked from [CSharpGuidelines](https://github.com/dennisdoomen/CSharpGuidelines). 

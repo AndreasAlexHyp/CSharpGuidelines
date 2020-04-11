@@ -13,8 +13,10 @@ sidebar:
         url: /#12-why-would-you-use-this-document
       - title: Basic Principles
         url: /#13-basic-principles
+      - title: Is this a coding standard?
+        url: /#14-is-this-a-coding-standard
       - title: Source
-        url: /#14-source
+        url: /#15-source
 
   - title: Guidelines
     children:
@@ -36,3 +38,4 @@ sidebar:
         url: /documentation-guidelines/
       - title: Layout Guidelines (HY2400)
         url: /layout-guidelines/
+
